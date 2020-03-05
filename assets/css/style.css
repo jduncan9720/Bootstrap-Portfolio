@@ -9,7 +9,32 @@
     color: #ffffff;
     padding: 10px;
 }
+.btn{
+    background-color: #4aaaa5;
+    color: #ffffff;
+}
 
 h3 {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+}
+.container-fluid:nth-child(3){
+    border-top: #4aaaa5 10px solid;
+}
+img {
+    position: relative;
+    display: block;
+}
+
+h5 {
+    position: absolute;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    bottom:5px;
+    background: #4aaaa5;
+    width: 210px;
+    height: 35px;
+    color: white;
+    text-align: center;
+    padding-top: 4px;
+    box-sizing: border-box;
 }
