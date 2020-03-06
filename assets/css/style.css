@@ -9,6 +9,9 @@
     color: #ffffff;
     padding: 10px;
 }
+html, body{
+height: 100%;
+}
 .btn{
     background-color: #4aaaa5;
     color: #ffffff;
@@ -24,8 +27,8 @@ h3 {
 img {
     position: relative;
     display: block;
-}
 
+}
 h5 {
     position: absolute;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -37,4 +40,7 @@ h5 {
     text-align: center;
     padding-top: 4px;
     box-sizing: border-box;
+}
+.fullscreen{
+    height: 100%;
 }
