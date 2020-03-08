@@ -23,6 +23,9 @@ h3 {
 }
 .container-fluid:nth-child(3){
     border-top: #4aaaa5 10px solid;
+    position: fixed;
+    bottom: 0;
+    right: 0;
 }
 img {
     position: relative;
